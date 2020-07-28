@@ -1,0 +1,141 @@
+body
+{
+    margin: 0;
+    text-align: center;
+}
+
+
+h1
+{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 500%;
+    color: #5ab7a2;
+    line-height: 1;
+}
+
+h4
+{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 120%;
+    color: #5ab7a2;
+}
+
+p
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: medium;
+    font-weight: 600;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 200%;
+    padding-top: 1.5%;
+    
+}
+
+h3
+{
+    font-size: 150%;
+    color:#11999E;
+}
+
+hr
+{
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 5%;  
+    color: darkgray;  
+    margin-top: 5%;
+    
+}
+
+
+.top-box
+{
+    background-color: #e0ebe8;
+    position: relative;
+    padding-top: 17%;
+}
+
+.skill-row 
+{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+#top {
+    position: absolute;
+    right: 25%;
+    top: 15%;
+}
+
+#bottom {
+    position: absolute;
+    left: 20%;
+    top: 50%;
+}
+
+.dp
+{
+    margin-top: 70px;
+}
+
+.chilli
+{
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+
+.computer
+{
+    width: 30%;
+    float: right;
+    margin-left: 5%;
+}
+
+.bottom-container
+{
+    margin-top: 4%;
+    background-color: #11999E;
+    padding: 50px 0 20px;
+    margin-bottom: 0;
+}
+
+.footer-link
+{
+    color: thistle;
+    text-decoration: blink;
+    margin: 0 1%;
+    font-size: 120%;
+}
+.rights
+{
+    color: white;
+    font-size: 80%;
+    margin-top: 2%;
+}
+
+.button
+{
+    margin: 3% 0;
+}
+.btn {
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 120%;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 17px;
+  }
